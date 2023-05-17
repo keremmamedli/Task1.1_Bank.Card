@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\bin\Debug\net6.0\Task_1(Bank Card).exe
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\bin\Debug\net6.0\Task_1(Bank Card).deps.json
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\bin\Debug\net6.0\Task_1(Bank Card).runtimeconfig.json
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\bin\Debug\net6.0\Task_1(Bank Card).dll
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\bin\Debug\net6.0\Task_1(Bank Card).pdb
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\Task_1(Bank Card).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\Task_1(Bank Card).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\Task_1(Bank Card).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\Task_1(Bank Card).AssemblyInfo.cs
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\Task_1(Bank Card).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\Task_1(Bank Card).dll
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\refint\Task_1(Bank Card).dll
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\Task_1(Bank Card).pdb
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\Task_1(Bank Card).genruntimeconfig.cache
+C:\Users\user\Desktop\Code Academy Tasks\Task_1(Bank Card)\Task_1(Bank Card)\obj\Debug\net6.0\ref\Task_1(Bank Card).dll
